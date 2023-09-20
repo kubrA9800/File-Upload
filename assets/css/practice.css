@@ -1,0 +1,17 @@
+#drop-elem{
+    width: 600px;
+    height: 500px;
+    background-color: black;
+    float: right;
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+    
+}
+.drag{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    margin-bottom: 10px;
+    
+}
